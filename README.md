@@ -1,4 +1,6 @@
-## こんにちは！
+## こんにちは！ 2A_exeだよ
+
+- scratch - https://scratch.mit.edu/users/2A_exe/
 
 2A_exeです。よろろん
 
