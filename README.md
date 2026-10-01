@@ -6,6 +6,7 @@
 2A_exeです。よろろん
 
 - NKYS-Tube-Pro https://github.com/c00lkimx01-creator/NKYS-Tube-Pro
+- Sennin Tube Plus https://github.com/c00lkimx01-creator/Sennin-Tube-Plus-v2-by-2a
 - AXE Tube https://github.com/c00lkimx01-creator/AXE-Tube-By-2a-exe
 - INVIDIOUS PLUS https://github.com/c00lkimx01-creator/INVIDIOUS-PLUS
 
