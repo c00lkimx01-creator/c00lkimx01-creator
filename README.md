@@ -11,7 +11,7 @@
 - INVIDIOUS PLUS https://github.com/c00lkimx01-creator/INVIDIOUS-PLUS
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=toka-kun&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&count_private=true
+![stats](https://github-readme-stats.vercel.app/api?username=c00lkimx01-creator&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&count_private=true)
 )<br>
 
 <picture>
